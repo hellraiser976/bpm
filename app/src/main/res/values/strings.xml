@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AudioBpmEditor</string>
+    <string name="load_file">Carica file</string>
+    <string name="bpm_label">BPM (1-999)</string>
+    <string name="pitch_label">Pitch (semitoni)</string>
+    <string name="reverse_label">Reverse</string>
+    <string name="play">Play</string>
+    <string name="pause">Pausa</string>
+    <string name="stop">Stop</string>
+    <string name="loop">Play Loop</string>
+    <string name="cut">Cut</string>
+    <string name="erase">Erase</string>
+    <string name="clear">Cancella file</string>
+    <string name="download">Scarica MP3</string>
+    <string name="no_file">Nessun file caricato</string>
+    <string name="confirm_clear">Vuoi cancellare il file e resettare?</string>
+    <string name="yes">Sì</string>
+    <string name="no">No</string>
+</resources>
